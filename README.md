@@ -9,7 +9,7 @@ Definiera en `type` för spelets olika tillstånd (idle/waiting/ready/result/too
 Skapa komponenten för spelplanen (en klickbar ruta med meddelande).
 
 ## Steg 3: useState med TypeScript
-Lägg till states med typade generics:
+Lägg till states med följande typning:
 - Spelets tillstånd (din egen type)
 - Starttid (`number | null`)
 - Reaktionstid (`number | null`)
