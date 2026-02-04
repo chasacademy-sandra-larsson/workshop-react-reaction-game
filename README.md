@@ -34,7 +34,5 @@ Skapa en effect som:
 - Cleanup-funktionen = städa upp efter dig (viktigt med timers!)
 
 ## 👥 Diskutera
-- Vad händer om vi glömmer cleanup-funktionen i useEffect?
-- Varför använder vi `number | null` istället för bara `number`?
-- När körs useEffect-funktionen? Vad styr det?
 - Hur skiljer sig useState från en vanlig variabel?
+- När körs useEffect-funktionen? Vad styr det?
